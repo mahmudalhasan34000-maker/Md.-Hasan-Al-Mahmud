@@ -1,0 +1,6 @@
+{
+  "name": "HishabKitab - Personal Finance & Daily Habit Tracker",
+  "description": "Bilingual personal financial tracker, debt/credit manager (Receivables & Payables), monthly expense budget, shopping checklist, notes, and habit sobriety streak counter in Bangla and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
